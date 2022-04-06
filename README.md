@@ -2,6 +2,4 @@
 **Fork** this repository to use for practicing Github flow.
 
 # Attendance
-dzagardo
-
 haoyuzhang
